@@ -2,6 +2,10 @@ slock - simple screen locker
 ============================
 simple screen locker utility for X.
 
+Patches
+-------
+
+* [Capscolor](https://tools.suckless.org/slock/patches/capscolor/)
 
 Requirements
 ------------
